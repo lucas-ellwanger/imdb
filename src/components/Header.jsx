@@ -19,7 +19,7 @@ export default function Header() {
             <span className='font-bold cursor-default dark:text-white bg-amber-500 py-1 px-2 rounded-lg mr-1'>
               IMDb
             </span>
-            <span className='text-xl hidden sm:inline dark:text-white'>
+            <span className='text-xl px-4 hidden sm:inline dark:text-white'>
               Clone
             </span>
           </h2>
